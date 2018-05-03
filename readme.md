@@ -16,7 +16,7 @@ ___
 - [OMDB Cached link](https://omdb-api.now.sh/?s=star%20wars)
 - [OMDB docs](http://www.omdbapi.com/)
 ___
-### API Eaxample List
+### API Example List
 - [Gifts](https://github.com/michellescripts/Q1-Gifting)
 - [Code Game](https://html-css-game.firebaseapp.com/)
   - [Git Hub](https://github.com/GFlauta/.title-display-inline-)
